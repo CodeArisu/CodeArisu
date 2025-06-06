@@ -29,6 +29,9 @@
 
 <h2 align="left">🚀 Some tools I have Learned: </h2>
 
+</br>
+</br>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
