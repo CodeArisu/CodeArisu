@@ -1,25 +1,28 @@
-<h2 align="left">Hi👋 I am Roland Gerona, a Full-Stack Developer 🧑‍💻</h2>
+<h1 align="left">Hi There👋 I am Roland Gerona, a Full-Stack Developer 🧑‍💻</h1>
 
 ###
 
-<table border="0" width="100%" align="center">
-  <tr>
-    <td align="left">
-      <p align="left">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+</div>
+
+<div align="center">
+  <h5>
         🧑‍🎓 Currently a 3rd year College Student.<br>
         📖 Studying Computer Science<br>
         💻 Started Web Developing since 2022
-      </p>
-    </td>
-    <td align="right">
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-    </td>
-  </tr>
-</table>
+      </h5>
+</div>
 
 ###
 
-<h3 align="center">MY TECH STACK</h3>
+- 📊 Spent my years learning new frameworks, backend developments & strategies and Coding etiquettes.
+- ✍️ Currently learning Vue Js with three Js Front-End Designing and animations.
+- 🔥 Focus on web applications architectures, frameworks and development
+
+###
+
+<h2 align="left">🚀 Some tools I have Learned: </h2>
 
 ###
 
@@ -45,8 +48,16 @@
 
 ###
 
+<h2 align="left">📈 Github Stats: </h2>
+
+###
+
+<br clear="both">
+
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeArisu&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=CodeArisu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=CodeArisu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeArisu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
