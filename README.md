@@ -1,11 +1,7 @@
-<h1 align="left">Hi There👋 I am Roland, a Full-Stack Developer 🧑‍💻</h1>
+<h1 align="center">Hi There👋 I am Roland, a Full-Stack Developer 🧑‍💻</h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-</div>
-
-<div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=CodeArisu.CodeArisu" />
 </div>
 
 <div align="center">
